@@ -1,0 +1,46 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    color:red;
+    padding: 5px;
+    margin: 50px;
+    border: 5px solid blue;
+    font-size: 22pt;
+    text-align: center;
+    /*background-color: blue;*/
+}
+header h2{
+    font-size:14pt;
+}
+#name{
+  margin:15px;
+    padding:3px;
+    border: 5px solid black;  
+}
+
+#wantedFor{
+    color:coral;
+     margin:15px;
+    padding:3px;
+    border: 5px solid black;
+}
+#wantedFor img{
+    
+    margin:15px;
+    padding:3px;
+    border: 5px solid black;
+}
+#lastSeen{
+    
+     margin:15px;
+    padding:3px;
+    border: 5px solid black;
+}
+footer{
+    color:red;
+     margin:15px;
+    padding:3px;
+    border: 5px solid black;
+}
