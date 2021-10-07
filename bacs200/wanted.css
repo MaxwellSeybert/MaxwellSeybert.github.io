@@ -1,32 +1,47 @@
 body{
     padding: 0px;
     margin: 0px;
+    background-color:khaki;
 }
 header{
-    color:red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
     padding: 5px;
     margin: 50px;
     border: 5px solid blue;
-    font-size: 22pt;
+    font-size: 30pt;
     text-align: center;
-    /*background-color: blue;*/
+    background-color:darkgrey;
 }
 header h2{
-    font-size:14pt;
+    font-size:20pt;
+}
+main{
+    text-align:center;
+    
 }
 #name{
-  margin:15px;
-    padding:3px;
+    background-color: darkgray;
+  margin:50px;
+    padding:1px;
     border: 5px solid black;  
+    font-size: 26pt;
 }
-
+h3{
+    font-size: 22pt;
+}
+li{
+    font-size: 18;
+}
 #wantedFor{
-    color:coral;
+    background-color: darkkhaki;
+    color:black;
      margin:0px;
     padding:3px;
     border: 5px solid black;
     width:45%;
     float: right;
+    text-align: left;
 }
 img{
     width:45%;
@@ -37,13 +52,17 @@ img{
 }
 #lastSeen{
     
-     margin:15px;
+     margin:30px;
     padding:3px;
     border: 5px solid black;
+    text-align: left;
+    
 }
 footer{
     color:red;
      margin:15px;
     padding:3px;
     border: 5px solid black;
+    text-align: center;
+    
 }
