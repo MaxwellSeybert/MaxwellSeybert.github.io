@@ -78,3 +78,17 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #5f5d68;}
+
+.mainImage{
+    width: 100%;
+    height: 400px;
+
+}
+.subImage{
+    width:490px;
+    height: 500px;
+    margin: 5px;
+}
+li{
+    font-size: 20px;
+}
